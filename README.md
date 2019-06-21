@@ -9,3 +9,5 @@
 > 运行程序 ——> F5  
 > 左侧显示 Project ——> Ctrl+1  
 > 查找同一变量 ——> Ctrl+D  
+## 效果图
+![Image text](https://github.com/leaicc/PyCharm-Config/blob/master/Snipaste_2019-06-21_14-52-31.png)
