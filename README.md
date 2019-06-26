@@ -2,7 +2,7 @@
 点击<a href='https://github.com/pingfangx/TranslatorX'>这里</a>下载汉化插件，按照教程安装
 - ## 小地图
 下载<a href='http://plugins.jetbrains.com/plugin/7275-codeglance'>CodeGlance</a>，可以在右侧显示小地图，方便鼠标快速拖动查看代码
-- ## 修改了快捷键  
+- ## 修改快捷键  
 > 重复行或选中区域 ——> Ctrl+Shift+D  
 > 开始新行 ——> Ctrl+Enter  
 > 运行程序 ——> F5  
