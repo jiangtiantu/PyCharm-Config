@@ -10,4 +10,4 @@
 > 左侧显示 Project ——> Ctrl+1  
 > 查找同一变量 ——> Ctrl+D  
 ## 效果图
-![Image text](https://github.com/leaicc/PyCharm-Config/blob/master/Snipaste_2019-06-21_14-52-31.png)
+![](https://i.loli.net/2019/06/26/5d12e9b41861b29999.jpg)
