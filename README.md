@@ -1,5 +1,5 @@
 ## 使用  
-下载 PyCharm_Config.zip，打开 PyCharm ——> 文件 ——> 导入设置 ——> 选择下载好的 PyCharm_Config.zip ——> 确定，即可
+下载 PyCharm-Config.zip，打开 PyCharm ——> 文件 ——> 导入设置 ——> 在弹出窗口选择下载好的 PyCharm-Config.zip ——> 确定，即可
 ## 汉化 
 点击<a href='https://github.com/pingfangx/TranslatorX'>这里</a>下载汉化插件，按照教程安装
 ## 小地图
